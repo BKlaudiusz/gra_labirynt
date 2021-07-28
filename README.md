@@ -10,5 +10,7 @@ bot
 
 Serwer wraz z botem
 ![Serwer wraz z botem](https://github.com/BKlaudiusz/gra_labirynt/blob/main/screen/server.png)
+
+
 Klient
 ![Klient](https://github.com/BKlaudiusz/gra_labirynt/blob/main/screen/client.png)
